@@ -22,3 +22,14 @@ body{
 text-align: justify;
 padding-left: 2px;
 }
+.header2{
+    border: 3px solid #dddd;
+    border-radius: 2px;
+    cursor: pointer;
+   
+}
+.header2 h1{
+   text-align:center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
