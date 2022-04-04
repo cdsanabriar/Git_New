@@ -22,3 +22,7 @@ body{
 text-align: justify;
 padding-left: 2px;
 }
+#cabezeramod{
+    text-shadow: 1px;
+    color: blue;
+}
