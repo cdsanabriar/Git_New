@@ -3,3 +3,22 @@ body{
     font-family: 'Times New Roman', Times, serif;
     color: darkcyan;
 }
+.container{
+    width: 75%;
+    padding: 1em;
+    text-align: left;
+    border-radius: 2px;
+    border: 1px solid #dddd;
+    margin: 0 auto;
+
+}
+.container h1{
+    font-size: 20px;
+    padding:1em;
+    text-align: left;
+
+}
+.container p{
+text-align: justify;
+padding-left: 2px;
+}
